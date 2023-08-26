@@ -469,11 +469,11 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 55%;
+  width: 75%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 35%;
+  width: 75%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
